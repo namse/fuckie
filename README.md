@@ -1,9 +1,13 @@
 # fuckie
 Nodejs Express Middleware.
-
+on internet explorer's request, redirect to chrome download page.
 ### Pronounce : fʌk·ki
 
 # How To Use
+```
+npm install --save express-fuckie
+```
+ 
 ```
 'use strict';
 const express = require('express');
