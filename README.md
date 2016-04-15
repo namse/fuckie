@@ -6,6 +6,9 @@ Let InternetExplorer do his best.
 
 # How To Use
 ```
+npm install --save express-fuckie
+```
+```
 'use strict';
 const express = require('express');
 const app = express();

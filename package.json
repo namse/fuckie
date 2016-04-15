@@ -1,0 +1,26 @@
+{
+  "name": "express-fuckie",
+  "version": "1.0.0",
+  "description": "Nodejs Express Middleware. Let InternetExplorer do his best.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skatpgusskat/fuckie.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "ie",
+    "internet",
+    "explorer"
+  ],
+  "author": "skatpgusskat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skatpgusskat/fuckie/issues"
+  },
+  "homepage": "https://github.com/skatpgusskat/fuckie#readme"
+}
