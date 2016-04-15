@@ -13,6 +13,6 @@ const fuckIE = require('fuckie');
 app.use(fuckIE);
 ```
 
-#Let InternetExplorer do his best.
+# Let InternetExplorer do his best.
 ![](https://raw.githubusercontent.com/skatpgusskat/fuckie/master/readmeResource/ie_download_real_browser.jpg)
 ![](https://raw.githubusercontent.com/skatpgusskat/fuckie/master/readmeResource/whoTheFuckStillUsesIE.jpg)
